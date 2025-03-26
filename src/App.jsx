@@ -56,15 +56,15 @@ export default function UNSWOpenDay() {
           <div className="p-4">
             {/* Header */}
             <div className="mb-4">
-              <p className="text-sm text-gray-600">Saturday, April 12</p>
+              <p className="text-sm text-gray-600">Monday, April 14</p>
               <h1 className="text-4xl font-bold text-purple-900">
-                UNSW India Open Day 2025 - Bangalore
+                UNSW India Open Day 2025 - Chennai
               </h1>
             </div>
 
             {/* Description */}
             <p className="text-sm text-gray-700 mb-6">
-              UNSW Sydney is coming to Bangalore! Meet our academics, get
+              UNSW Sydney is coming to Chennai! Meet our academics, get
               application advice and fee waivers, and attend our Employability
               Masterclass.
             </p>
@@ -94,7 +94,7 @@ export default function UNSWOpenDay() {
                 <MapPin className="w-5 h-5 text-gray-500 mt-0.5" />
                 <div>
                   <p className="text-sm font-medium">
-                    Shangri-La Bengaluru Hotel, Palace Road
+                    Hyatt Regency Hotel, Anna Salai Road
                   </p>
                 </div>
               </div>
@@ -105,7 +105,7 @@ export default function UNSWOpenDay() {
               <h2 className="text-lg font-bold mb-2">Date and time</h2>
               <div className="flex items-start gap-3">
                 <Calendar className="w-5 h-5 text-gray-500 mt-0.5" />
-                <p className="text-sm">Saturday, April 12 · 12 - 3pm IST</p>
+                <p className="text-sm">Monday, April 14 · 11 - 3pm IST</p>
               </div>
             </div>
 
@@ -170,7 +170,7 @@ export default function UNSWOpenDay() {
               </div>
 
               <p className="text-sm mb-3">
-                Join us at UNSW India Open Day in Bangalore to chat with our
+                Join us at UNSW India Open Day in Chennai to chat with our
                 world-leading academics from Sydney, and learn about our
                 scholarships and pathways for students in India.
               </p>
